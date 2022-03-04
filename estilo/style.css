@@ -9,3 +9,6 @@
 .bgBlack {
     background-color: #000;
 }
+body {
+    background-image: url("/assets/img/otrasImg/mar.jpg");
+}
